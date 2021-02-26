@@ -1,2 +1,2 @@
 # PROJETO CURSO ALGORITMO I
-### Este projeto é sobre o curso Algoritmo e Logica I
+### Exercicios basicos de logica feitos em JavaScript no curso Algoritmo e Logica I.
